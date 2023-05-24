@@ -13,7 +13,7 @@ import org.junit.Test;
  * 
  * Student Name: Lucius Neo Tze Hean
  * Student ID: 21016412
- * Class: W64M
+ * Class: W65E
  * Date/Time created: Wednesday 24-05-2023 11:05
  */
 
